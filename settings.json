@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maddox001.aternos.me",
+    "ip": "mxblade.aternos.me",
     "port": 32473,
     "version": "1.20.1",
     "try-creative": false
